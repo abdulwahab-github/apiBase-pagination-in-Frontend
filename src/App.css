@@ -1,0 +1,22 @@
+.txt{
+    margin-left: 5vh;
+   
+    margin-top: 5vh;
+    width: 85vh;
+    display: inline-block;
+}
+.text{
+    margin-top: 20vh !important;
+    text-align: center;
+}
+.cnter{
+margin-bottom: 5vh !important;
+
+}
+.cnter1:hover{
+    background-color: brown !important;
+    
+}
+.txt1{
+margin-left: 80vh !important;    
+}
