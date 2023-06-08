@@ -1,7 +1,7 @@
 import axios from "axios";
 
 let apiHandle = axios.create({
-  baseURL: "http://localhost:5000/api/",
+  baseURL: "https://indigo-scallop-robe.cyclic.app/api/",
 });
 
 let Get = (endPoint) => {
